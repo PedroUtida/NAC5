@@ -1,6 +1,5 @@
 # NAC5 IOT
 
-Esse é um guia simples, o grupo pode e deve modificar o template conforme necessidade. 
 
 # Nome do projeto
 
