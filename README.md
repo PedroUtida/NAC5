@@ -29,3 +29,10 @@ Aqui nos podemos ver como os circulos maiores ficaram marcados e com uma cruz em
 
 Nos utilizamos nesse projeto o jupyter notebook, porém utilizamos anaconda para fazer download via anaconda3(prompt)
 * [anaconda](https://www.anaconda.com/products/individual)
+
+
+## Link de vídeo demonstração
+
+Link para o video explicação da NAC5
+
+[Link para o video youtube](https://youtu.be/6x-7RMdQG0U)
